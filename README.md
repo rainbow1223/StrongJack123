@@ -1,7 +1,7 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Smart Jack</h1>
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lightning-top&theme=algolia" alt="lightning-top" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SmartJack&theme=algolia" alt="SmartJack" /></p>
 
 <br>
 <h2 align="center">
@@ -135,7 +135,7 @@
  <span>...</span>
 </p>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pioneer-Super-Dev&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartJack&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
 
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
 ## 📊 Github Stats
@@ -145,10 +145,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lightning-top's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lightning-top&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SmartJack's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SmartJack&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lightning-top&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lightning-top" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SmartJack&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SmartJack" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -158,17 +158,17 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br/>
-   <a href="https://github.com/lightning-top"><img alt="LIGHTNING-top's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lightning-top&custom_title=lightning-top's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/StrongJack123"><img alt="SmartJack's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SmartJack&custom_title=SmartJack's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightning-top&layout=compact&theme=algolia" alt="lightning-top" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SmartJack&layout=compact&theme=algolia" alt="SmartJack" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Credits: [LIGHTNING-top](https://github.com/lightning-top)
+Credits: [SmartJack](https://github.com/StrongJack123)
 
 Last Edited on: 29th Feb 2020
