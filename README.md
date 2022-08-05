@@ -5,9 +5,8 @@
 
 <br>
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Pioneer+Elsa+Techonology+Enables+Every+Dream+;Passionate+Blockchain+|+Full+Stack+Developer;+Fullstack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20tech&center=true&width=500&height=50&font=georgia"></h2>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Smart+Jack+Techonology+Enables+Every+Dream+;Passionate+Blockchain+|+Full+Stack+Developer;+Spring+Boot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20tech&center=true&width=500&height=50&font=georgia"></h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StrongJack123&margin-w=15&margin-h=15)](https://github.com/StrongJack123/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +16,8 @@
 <a href="https://t.me/Akachi1325" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40" width="40" /></a>
 <a href="mailto:greatwisdom1223@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
 </p>
+
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 ### I AM SENIOR BLOCKCHAIN AND FULL STACK DEVELOPER.
 🔭 I AM EXPERT IN BLOCKCHAIN such as DEFI, SMART CONTRACT, NFT, WEB3 and FULL STACK DEVELOPMENT especially REACT, THREE, SPRING BOOT..
 
