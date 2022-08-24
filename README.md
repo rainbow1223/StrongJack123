@@ -1,7 +1,5 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Smart Jack</h1>
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SmartJack&theme=algolia" alt="SmartJack" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://join.skype.com/invite/BDHGg3ZsBVPk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
