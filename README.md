@@ -2,12 +2,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Smart Jack</h1>
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SmartJack&theme=algolia" alt="SmartJack" /></p>
-
-<br>
-<h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Smart+Jack+Techonology+Enables+Every+Dream+;Passionate+Blockchain+|+Full+Stack+Developer;+Spring+Boot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20tech&center=true&width=500&height=50&font=georgia"></h2>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://join.skype.com/invite/BDHGg3ZsBVPk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
@@ -16,21 +10,6 @@
 <a href="https://t.me/Akachi1325" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40" width="40" /></a>
 <a href="mailto:greatwisdom1223@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
 </p>
-
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-### I AM SENIOR BLOCKCHAIN AND FULL STACK DEVELOPER.
-🔭 I AM EXPERT IN BLOCKCHAIN such as DEFI, SMART CONTRACT, NFT, WEB3 and FULL STACK DEVELOPMENT especially REACT, THREE, SPRING BOOT..
-
-🌱 HONEST, CREATIVITY, PERSISTANCE, PASSION.
-
-🤔 FAST-LEARNING, SPEED DEMON.
-
-💬 BORN TEAM LEARDER, NOBLE TEAM SPIRIT.
-
-😄 RISK-TAKER, LOVE CHALLENGE, NEVER GIVE UP.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
