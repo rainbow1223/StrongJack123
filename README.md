@@ -112,7 +112,6 @@
  <span>...</span>
 </p>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartJack&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
 
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
 Credits: [SmartJack](https://github.com/StrongJack123)
