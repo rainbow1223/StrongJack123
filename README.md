@@ -9,7 +9,7 @@
 <a href="mailto:greatwisdom1223@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
 </p>
 <br/>
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu-github-profile-awesome-beautiful" width="40" height="40"/>
