@@ -1,5 +1,6 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Rainbow is beautiful</h1>
+<img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://join.skype.com/invite/BDHGg3ZsBVPk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
